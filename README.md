@@ -4,8 +4,6 @@
 #### CS student of Charles University
 </div>
 
-- 🔭 I’m currently working on **A cool AI project**
 - 🌱 I’m currently learning Machine learning in financial markets
 - 📫 How to reach me: mkosuke711@gmail.com
-- ⚡ Fun fact: I know how to exit Vim (usually).
 
